@@ -1,0 +1,1 @@
+Añadiendo prueba de commit desde interfaz gráfica de git
