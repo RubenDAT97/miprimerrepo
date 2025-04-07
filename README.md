@@ -4,3 +4,5 @@ Este es mi primer repositorio para mi perfil GITHUB
 Esto lo he añadido para demostrar como hacer un commit desde GITHUB
 
 Añadiento commit para probar el comando fetch
+
+Añadiento commit para demostrar funcionamiento comando pull
